@@ -1,0 +1,4 @@
+This will be the updated version 
+
+<<<<<<<, =======, >>>>>>> 
+now version 2
